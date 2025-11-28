@@ -7,7 +7,7 @@ This repository contains a complete implementation of a two-layer, fully connect
 ## Architecture
 The network architecture is:
 - **Input Layer:** 784 neurons (28x28 pixels)
-- **Hidden Layer:** 256 neurons with **ReLU** activation
+- **Hidden Layer:** 128 neurons with **ReLU** activation
 - **Output Layer:** 10 neurons with **Softmax** activation (for 10 classes)
 
 ## Performance
